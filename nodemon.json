@@ -1,0 +1,8 @@
+{
+  "watch": [
+    "*",
+    ".env"
+  ],
+  "ext": ".ts",
+  "exec": "ts-node ./01/index.ts"
+}
